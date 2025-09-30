@@ -1,0 +1,25 @@
+/* 
+   text-decoration: solid;
+   font-style: italic;
+   text-overflow: clip;
+
+} */
+#data-table {
+    flex:content;
+text-decoration: solid;
+   font-style: italic;
+    width: 500px;
+    height: 20px;
+    background-color: rgb(133, 223, 223);
+    padding-left: 10px;
+    text-shadow: 10px;
+    text-box: calc();
+    text-align: center;
+    font-size: small;
+
+
+}
+.transferButton:hover:hover{
+    color: bisque;
+
+}
